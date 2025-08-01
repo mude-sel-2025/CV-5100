@@ -1,4 +1,5 @@
-# CV-5100-Notes-Refs
+# CV-5100-Notes-Refs <img align="right" width="100" height="100" src="./_iitm-logo.svg">
+
 *Based on TU Delft's [MUDE](http://mude.citg.tudelft.nl/)*
 
 *Written by: [pradeep](https://www.pppratapa.com/), [prakash](https://sites.google.com/view/prakashbadal), and [sudheendra](https://www.linkedin.com/in/sudheendra-herkal)
