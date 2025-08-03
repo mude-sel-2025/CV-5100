@@ -9,8 +9,13 @@ This is the landing repo for the MUDE course at the Department of Civil Engineer
 ## **Assignments**
    * Assignment-0 (Setting the system up): &emsp; [Assignment-0 repo](https://github.com/mude-sel-2025/assignment-0) &emsp; | &emsp;  [Accept Assignment-0 (GitHub Classroom)](https://classroom.github.com/a/znBJT12E)
 
-## **References: Teachbooks**
+## **References: Teachbook**
    * MUDE Teach book from TU Delft https://mude.citg.tudelft.nl/book/2024/intro.html
-   * Python basics teach book https://teachbooks.io/learn-python/01/Theory/01.html 
+
+## **References: Python**
+   * Python official tutorial (if you are new to _Python_ but not to _programming_) https://docs.python.org/3/tutorial/index.html (Go through Chapters 3, 4, and 5)
+   * Python basics teach book https://teachbooks.io/learn-python/01/Theory/01.html
+   * Python for Programmers (long list) https://wiki.python.org/moin/BeginnersGuide/Programmers
+   * Python for Non-Programmers (long list) https://wiki.python.org/moin/BeginnersGuide/NonProgrammers
 
 ## **References: Textbooks**
