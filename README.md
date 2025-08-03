@@ -7,7 +7,7 @@
 This is the landing repo for the MUDE course at the Department of Civil Engineering, IIT Madras. This repo contains lecture notes, links to assignments (down below under `Assignments` heading), references for teach-books and textbooks, and other useful links. The repository will be updated as the course progresses through the semester. 
 
 ## **Assignments**
-   * Assignment-0 (Setting the system up): &emsp; [Assignment-0 repo](https://github.com/mude-sel-2025/assignment-0) &emsp; | &emsp;  [Accept Assignment-0 (GitHub Classroom)](https://classroom.github.com/a/znBJT12E)
+   * Assignment-0 (Setting the system up): &emsp; [Assignment-0 repo](https://github.com/mude-sel-2025/assignment-0) &emsp; | &emsp;  [Accept Assignment-0 (GitHub Classroom)]([https://classroom.github.com/a/znBJT12E](https://classroom.github.com/a/Oyk9wOrn))
 
 ## **References: Teachbook**
    * MUDE Teach book from TU Delft https://mude.citg.tudelft.nl/book/2024/intro.html
