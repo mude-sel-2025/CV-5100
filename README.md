@@ -8,6 +8,7 @@ This is the landing repo for the MUDE course at the Department of Civil Engineer
 
 ## **Assignments**
    * Assignment-0 (Setting the system up): &emsp; [Assignment-0 repo](https://github.com/mude-sel-2025/assignment-0) &emsp; | &emsp;  [Accept Assignment-0 (GitHub Classroom)](https://classroom.github.com/a/Oyk9wOrn)
+   * * Assignment-1 (Numerical Modeling): &emsp; [Assignment-1 repo](https://github.com/mude-sel-2025/assmt-1) &emsp; | &emsp;  [Accept Assignment-1 (GitHub Classroom)](https://classroom.github.com/a/3XMALFC0)
 
 ## **References: Teachbook**
    * MUDE Teach book from TU Delft https://mude.citg.tudelft.nl/book/2024/intro.html
